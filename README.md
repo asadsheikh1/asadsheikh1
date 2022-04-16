@@ -10,7 +10,7 @@ My web and desktop development skills include HTML, CSS, Bootstrap, C#, WinForms
 * ✉️  You can contact me at [sheikhasad22574@gmail.com](mailto:sheikhasad22574@gmail.com)
 * 🧠  I'm learning Artificial Intelligence & Machine Learning
 * 🤝  I'm open to collaborating on Android | iOS Projects on Flutter
-* ⚡  I love to code and play chess 👑
+* ⚡  Come and play a 10 min free chess with me  👑 https://www.chess.com/member/oyee_asad
 
 ### Skills
 
