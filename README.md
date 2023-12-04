@@ -59,3 +59,4 @@ I have a strong programming background with more than 2 years of experience with
 <img src="https://github.com/asadsheikh1/asadsheikh1/assets/79190719/3af982ca-4656-4881-8d33-42f0c61d7f36">
 
 <!-- By Asad Sheikh -->
+![snake gif](https://github.com/asadsheikh1/asadsheikh1/blob/output/github-contribution-grid-snake.gif)
