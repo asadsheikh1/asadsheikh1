@@ -56,7 +56,6 @@ I have a strong programming background with more than 2 years of experience with
 ## 🙈 Face Time
 <img src="https://drive.google.com/uc?id=1OSOSnvPENxtCSnzjLH3xsAsQufcNkOEt" alt="Your Image" style="width: 50%; height: auto; max-width: 100%;">
 
-<img src="https://github.com/asadsheikh1/asadsheikh1/assets/79190719/3af982ca-4656-4881-8d33-42f0c61d7f36">
+![snake gif](https://github.com/asadsheikh1/asadsheikh1/blob/output/github-contribution-grid-snake.svg)
 
 <!-- By Asad Sheikh -->
-![snake gif](https://github.com/asadsheikh1/asadsheikh1/blob/output/github-contribution-grid-snake.gif)
