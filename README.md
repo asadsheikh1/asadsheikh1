@@ -57,53 +57,10 @@
 
 </div>
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=asadsheikh1&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" />
-
-</div>
-
 ## 😎🤏🏻 Quote Check
 
 <div style=" display: flex !important; justify-content: center !important;">
     <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko" alt="My GitHub Quote">
 </div>
-
-<!-- By Asad Sheikh -->
-
-
-
-
-
-
-Hey 👋🏻, I'm Asad Sheikh!
-============================
-
-<div style="width: 100% !important; display: flex !important; justify-content: center !important;">
-  <a href="https://visitcount.itsvg.in" style="width: 100% !important; text-align: center !important; text-decoration: none !important;">
-    <img src="https://visitcount.itsvg.in/api?id=asadsheikh1&label=Profile%20Views&color=2&pretty=true" style="max-width: 100%; max-height: 100%; width: 100% !important; 
-     margin-top:25px !important;" />
-  </a>
-
-Python & Machine Learning Engineer
--------------------------------------
-</div>
-
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <a href="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" target="_blank" rel="noopener noreferrer nofollow" style="text-align: center; display: block;">
-    <img src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" alt="GIF" style="width: 80%; height: auto; max-width: 100%;">
-  </a>
-</div>
-## 📊 Stats:
-<div  style="width:100% !important; display: flex !important; flex-direction: column !important; justify-content: center !important; align-items: center !important;">
-        <img src="https://github-readme-stats.vercel.app/api?username=asadsheikh1&theme=merko&hide_border=false&include_all_commits=true&count_private=true"><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadsheikh1&theme=merko&hide_border=false"><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadsheikh1&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><br>
-</div>
-
-
-![Snake animation](https://github.com/asadsheikh1/asadsheikh1/blob/output/github-contribution-grid-snake.svg)
 
 <!-- By Asad Sheikh -->
