@@ -1,64 +1,43 @@
-# Hey, I'm Asad Sheikh 👋
+# Asad Sheikh — AI Engineer
 
-<div align="center">
+<img src="./github_banner.png" alt="Asad Sheikh — AI Engineer: LLM systems, AI agents and AI infrastructure" width="100%">
 
-[![](https://visitcount.itsvg.in/api?id=asadsheikh1&label=Profile%20Views&color=2&pretty=true)](https://visitcount.itsvg.in)
+**AI Engineer building production LLM applications, AI agents and the Python backends behind them.**
+I own AI features end to end: system design, retrieval and agent architecture, evaluation, deployment and monitoring.
 
-<img src="./github_banner.png" alt="Asad Sheikh — AI/ML Engineer" width="100%">
-
-</div>
-
-### AI/ML Engineer building production Generative AI systems — RAG pipelines, LLM orchestration, and applied ML.
-
-- 🌍 Based in Riyadh, Saudi Arabia
-- 🧠 Currently building AI systems in production — RAG assistants, document intelligence, multi-agent workflows
-- 🤝 Open to collaborating on Generative AI, RAG, and LLM projects
-- 📫 Reach me at [asadtsheikh@gmail.com](mailto:asadtsheikh@gmail.com)
+- 🧠 Head of AI Development at **8ration (CoreCodez)** (joined as AI Developer Nov 2025, promoted Mar 2026) — tool-calling AI records assistant, RAG chatbot, model-inference platform on AWS
+- 💼 Previously Freelance AI Engineer on **Upwork** (Mar 2024 – Nov 2025) — Top Rated, 100% Job Success, 18 contracts (US, Europe, Middle East)
+- 🛠️ Building **[SENTINEL](https://github.com/asadsheikh1/sentinel)** — an autonomous AI Site Reliability Engineer (in active development)
+- 🌍 Karachi, Pakistan (UTC+5) · open to remote roles and to relocating to KSA / UAE
+- 📫 [asadtsheikh@gmail.com](mailto:asadtsheikh@gmail.com) · [LinkedIn](https://www.linkedin.com/in/asadsheikh1/) · [Upwork](https://www.upwork.com/freelancers/asadsheikh) · [Medium](https://medium.com/@asadtsheikh)
 
 ---
 
-## 🌐 Connect
+## Featured work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadsheikh1/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@asadtsheikh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15247779)
+| Project | What it is | Stack |
+|---|---|---|
+| [**SENTINEL**](https://github.com/asadsheikh1/sentinel) | AI SRE, in active development. Built: OpenTelemetry telemetry pipeline, auth/RBAC and the first detection layer (alert rule packs, signals, deploy and GitHub webhooks). Planned: LangGraph root-cause agents on local LLMs, pgvector memory, repair sandbox, published precision/recall. | Python, FastAPI, PostgreSQL, OpenTelemetry, Prometheus, Loki, Jaeger, React, Podman |
+| [**AVIRO**](https://github.com/asadsheikh1/aviro-shop) | Microservice demo shop with fault injection — the system SENTINEL monitors and is evaluated against | FastAPI, PostgreSQL, Celery, Valkey, Locust, OpenTelemetry |
+| **AI Records Assistant** *(case study, client code private)* | Natural-language → confirmed CRUD across 32 modules, permission-aware retrieval, human confirmation | Python, FastAPI, OpenAI, LangChain, FAISS, Azure AI Document Intelligence |
 
----
+## Tech stack
 
-## 💻 Tech Stack
+**LLMs & agents** — OpenAI · Anthropic Claude · Gemini · Qwen3 / Llama via Ollama & vLLM · LangChain · LlamaIndex · Pydantic AI · MCP · tool calling · structured outputs
+**Retrieval** — hybrid search (BM25 + dense) · cross-encoder reranking · pgvector · FAISS · Qdrant
+**Evaluation & LLMOps** — eval harnesses · LLM-as-judge · Langfuse · guardrails · prompt-injection testing
+**Backend** — Python · FastAPI · asyncio · PostgreSQL · Supabase · Redis/Valkey · Celery · REST & WebSockets · OAuth2 · RBAC
+**Cloud & observability** — AWS (EC2, ALB, ECS, Lambda, Bedrock, S3) · Azure AI Document Intelligence · Docker · Podman · Kubernetes · OpenTofu/Terraform · GitHub Actions · OpenTelemetry · Prometheus · Grafana · Loki · Jaeger
+**ML** — scikit-learn · TensorFlow · LoRA/QLoRA fine-tuning (Hugging Face TRL, Unsloth)
 
-**AI / ML**
+## How I build AI systems
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-**Generative AI**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-
-**Backend & Data**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-**Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+- **Deterministic where it matters.** Rules and validation first; the LLM handles ambiguity, never unchecked writes.
+- **Humans approve actions.** State-changing operations go through explicit confirmation and an audit trail.
+- **Measured, not claimed.** Evaluation sets and regression tests before shipping a prompt or model change.
+- **Results, not adjectives.** 10+ AI-powered apps deployed, 7M+ rows of hospital data structured (80% less manual processing), 30% faster ML APIs.
+- **Observable by default.** Structured logs, metrics and traces from day one.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asadsheikh1&theme=merko&hide_border=false" />
-
-</div>
-
-## 😎🤏🏻 Quote Check
-
-<div style=" display: flex !important; justify-content: center !important;">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko" alt="My GitHub Quote">
-</div>
-
-<!-- By Asad Sheikh -->
+<sub>Older student, mobile and coursework projects are archived. Ask me about the Flutter/iOS apps I shipped before moving fully into AI engineering.</sub>
